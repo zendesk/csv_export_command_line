@@ -1,0 +1,34 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    faraday (0.8.9)
+      multipart-post (~> 1.2.0)
+    faraday_middleware (0.8.8)
+      faraday (>= 0.7.4, < 0.9)
+    hashie (2.0.5)
+    inflection (1.0.0)
+    mime-types (1.25.1)
+    multi_json (1.8.4)
+    multipart-post (1.2.0)
+    ruby-progressbar (1.4.1)
+    thor (0.18.1)
+    zendesk_api (1.2.5)
+      faraday (~> 0.8.0)
+      faraday_middleware (~> 0.8.7)
+      hashie (>= 1.2)
+      inflection
+      mime-types (~> 1.0)
+      multi_json
+      multipart-post
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support
+  ruby-progressbar (~> 1.4.1)
+  thor
+  zendesk_api

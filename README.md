@@ -1,6 +1,9 @@
 :warning: *Use of this software is subject to important terms and conditions as set forth in the License file* :warning:
 
 # CSV Export Command Line
+
+## Description:
+
 Command line tool to export tickets.
 
 ## Installation
@@ -27,4 +30,8 @@ You need to run it from the command line:
   [--output-path=OUTPUT_PATH]  # Where to save the csv file
                                # Default: HOME_PATH
 ```
+
+## Screenshot(s):
+* None
+
 By downloading this tool, you are agreeing to our [terms and conditions](https://github.com/zendesklabs/wiki/wiki/Terms-and-Conditions)

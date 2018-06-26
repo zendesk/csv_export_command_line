@@ -1,9 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    active_support (3.0.0)
-      activesupport (= 3.0.0)
-    activesupport (3.0.0)
+    active_support (4.1.11)
+      activesupport (~> 4.1.11) 
+    activesupport (4.1.11)
     faraday (0.8.9)
       multipart-post (~> 1.2.0)
     faraday_middleware (0.8.8)
